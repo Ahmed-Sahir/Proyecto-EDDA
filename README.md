@@ -19,6 +19,4 @@ Este proyecto explora las desigualdades regionales en el sistema sanitario espa�
 
 Sí existen desigualdades regionales relevantes, sobre todo por geografía y estructura territorial.
 
----
-
-**¿Te gustaría que también te prepare la presentación en PowerPoint o Canva para el día 10?**
+--
